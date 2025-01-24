@@ -1,0 +1,61 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name" translatable="false">The Translator</string>
+
+    <string name="about">Σχετικά με</string>
+    <string name="about_summary"><i>Μια εφαρμογή που βοηθά στη μετάφραση άλλων εφαρμογών Android!</i></string>
+    <string name="add_text_hint">προσθήκη-κειμένου-εδώ</string>
+    <string name="apply">Εφαρμογή</string>
+    <string name="change_logs">Αλλαγές-καταγραφές</string>
+    <string name="delete_line_question">Σίγουρα διαγραφή \'%s\'?</string>
+    <string name="delete_string">Διαγραφή \'string\'</string>
+    <string name="delete_string_message">Είστε βέβαιοι ότι θα διαγράψετε το τρέχον string.xml?</string>
+    <string name="developed_by">Αναπτύχθηκε Από</string>
+    <string name="device_storage">Αποθηκευτικός Χώρος Συσκευής</string>
+    <string name="donations">Δωρεές</string>
+    <string name="donations_message">Εάν θέλετε να εκτιμήσετε τη δουλειά μου, σκεφτείτε να αγοράσετε το πακέτο δωρεάς SmartPack από το Google Play, καθώς είναι πραγματικά χρήσιμο να συνεχίσω τα πρότζεκτ μου πιο ενεργά, αν και δεν είναι καθόλου απαραίτητο.</string>
+    <string name="donations_summary">Εάν θέλετε να εκτιμήσετε τις προσπάθειες του προγραμματιστή να παρέχει αυτήν την εφαρμογή εντελώς δωρεάν, μη παρεμβατική και χωρίς διαφημίσεις, εξετάστε το ενδεχόμενο να υποστηρίξετε την ανάπτυξη με κάποιο τρόπο. Κάντε κλικ εδώ για να μάθετε περισσότερα. Ευχαριστώ!</string>
+    <string name="find_and_replace">Εύρεση &amp; Αντικατάσταση</string>
+    <string name="find_and_replace_question">Αντικατάσταση \"%s\" με</string>
+    <string name="import_string">Εισαγωγή</string>
+    <string name="import_string_error">\'%s\' δεν είναι μια σωστή συμβολοσειρά γλώσσας. Ματαίωση!</string>
+    <string name="import_string_message">Δεν έχετε εισαγάγει ακόμα κανένα αρχείο μετάφρασης \'string\'. Πηγαίνετε στο μενού \'Ρυθμίσεις\' για να εισαγάγετε μία από την \'sdcard\'!</string>
+    <string name="import_string_sdcard">Εισαγωγή \'string\'</string>
+    <string name="import_string_snackbar">Δεν έχετε εισαγάγει ακόμα κανένα αρχείο \'string\' μετάφρασης!</string>
+    <string name="importing">Εισαγωγή…</string>
+    <string name="licence">Άδεια</string>
+    <string name="line_break_message">Οι διακοπές γραμμής θα αντικατασταθούν με \"\\"n\"</string>
+    <string name="more_apps">Περισσότερα από τον Προγραμματιστή</string>
+    <string name="more_apps_summary">Ελέγξτε περισσότερες εφαρμογές που παρέχονται από τον προγραμματιστή στο Google Play</string>
+    <string name="name_empty">Το όνομα είναι κενό! Ματαίωση!</string>
+    <string name="no_internet">Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο!</string>
+    <string name="permission_denied_write_storage">Δεν επιτρέπεται η εγγραφή στον αποθηκευτικό χώρο!</string>
+    <string name="press_back">Πατήστε ξανά πίσω για έξοδο</string>
+    <string name="rate_us">Βαθμολογία Εφαρμογής</string>
+    <string name="rate_us_Summary">Βαθμολογία η/και Κριτική του The Translator στο Google Play</string>
+    <string name="report_issue">Αναφορά Προβλήματος</string>
+    <string name="report_issue_summary">Θέστε ένα πρόβλημα στο GitHub</string>
+    <string name="replace">Αντικατάσταση</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="save_string_message">Δημιουργήθηκε νέα συμβολοσειρά μετάφρασης ως \'%s\'!</string>
+    <string name="save_string_replace">%s υπάρχει ήδη! Θέλετε να το αντικαταστήσετε?</string>
+    <string name="search_hint">Αναζήτηση…</string>
+    <string name="select_question">Επιλογή %s?</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="share">Κοινή Χρήση</string>
+    <string name="share_app">Κοινή Χρήση Εφαρμογής</string>
+    <string name="share_app_Summary">Προσκαλέστε τους φίλους σας να δοκιμάσουν το The Translator</string>
+    <string name="shared_by">%s/κοινοποιήθηκε από το The Translator</string>
+    <string name="share_message">The Translator %s μπορεί να ληφθεί από Google Play: https://play.google.com/store/apps/details?id=com.sunilpaulmathew.translator</string>
+    <string name="share_with">Κοινή Χρήση με</string>
+    <string name="source_code">Πηγαίος Κώδικας</string>
+    <string name="source_code_summary">The Translator είναι μια εφαρμογή ανοιχτού κώδικα που είναι έτοιμη να δεχτεί συνεισφορές από την κοινότητα ανάπτυξης. Κάντε κλικ εδώ για να δείτε τον πηγαίο κώδικα!</string>
+    <string name="support">Ομάδα Υποστήριξης</string>
+    <string name="support_summary">Εγγραφείτε στην ομάδα υποστήριξης του Telegram</string>
+    <string name="tag_complete_message">Συμπληρώστε το TAG (&lt; &amp; &gt;) πριν από την ενημέρωση</string>
+    <string name="translations_summary">Βοηθήστε με να μεταφράσω αυτήν την εφαρμογή!  Κάντε κλικ εδώ για να λάβετε τις συμβολοσειρές της αρχικής γλώσσας στα Αγγλικά</string>
+    <string name="update">Ενημέρωση</string>
+    <string name="url">URL</string>
+    <string name="view_string">Προβολή \'string\'</string>
+    <string name="with">με</string>
+    <string name="yes">Ναι</string>
+</resources>
